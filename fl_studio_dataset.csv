@@ -1,0 +1,738 @@
+text,label,notes
+"Noise pollution
+
+who like my noise pollution",Feedback,
+Check Anina. That's a free sooth like plugin that can receive sidechain information and duck specific frequencies,Recommendation/Discussion,
+"Autotune Go is available via FL cloud free tier
+
+Looks to be a simplified version of Autotune 2026 without flex tune/humanize/graphical controls, and a stepped retune speed. If you currently use pitcher or another middling vocal tuner you should give this a shot.",Recommendation/Discussion,
+"My friend built my PC out of parts he scrapped from other computers, so i can't help you there. I got the graphics card off Ebay.",Recommendation/Discussion,
+"i hate colors 😡😡
+
+first time trying this style/genre (idk how this is called), i usually do ambiance and orchestra stuff
+
+thats probably why the mixing sounds so bad. anyway tell me what you think!",Feedback,
+"Any way I can get this look on modern FL?
+
+https://preview.redd.it/jp48xz6jkrqh1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=a9e6c31b701a7994bd69373a80841b8b38da1dd0
+
+Texture pack or what?",Help/Advice,
+"I can open the channel rack fine, I can't open the actual pattern menu",Help/Advice,
+a song for when you're sad i guess ( wip ),Feedback,"Shares own work but does not explicitly ask for feedback; kept Feedback, review."
+Omg yes! I noticed that my music is actually so ass when i listen to it in the car 😭😭 the bass is way to heavy and the top ends feel like they are going to blow my ears out.  Do you think headphones arent a good way to produce? Cuz it sounds wayyy different headphones vs car,Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asks opinion on headphones vs car for producing; production-choice discussion, not troubleshooting."
+"Damn, i've been using it for only 1 and a half years and i discovered this within my first few months",Recommendation/Discussion,
+"Feedback on my song?
+
+I have been doing this for bit but just wanted to get feedback on this",Feedback,
+"Fair enough on the disclaimer front — I only tested this on my own setup, didn't touch different audio interfaces or stacks, and you're right that's worth flagging. I'll add a note about that.
+But the rest kind of misses the point of the post. I'm not claiming Linux + FL Studio is smooth or that everyone should do it — I'm saying if you're already committed to it (like I was), here's exactly what breaks and how to fix each thing, since I couldn't find all of this written down in one place anywhere. That's useful regardless of whether the """"""""smart"""""""" move was Bitwig or a Mac instead.
+If FL on Linux isn't worth the hassle for someone, that's a completely reasonable take. But """"""""don't share what you learned unless you're already an expert"""""""" isn't really how any of us learn this stuff in the first place.",Recommendation/Discussion,
+"PitchNet: a free, open-source vocal tuner that complements NewTone
+
+I’m developing PitchNet, a free and open-source vocal-tuning plugin for FL Studio users.
+
+It works well as a complement to NewTone: NewTone is excellent for detailed manual editing, while PitchNet provides a faster piano-roll workflow with neural pitch tracking and resynthesis for larger pitch changes.
+
+PitchNet supports VST3, AU, and AAX, plus a standalone app. It can export corrected audio as WAV or MIDI, and there’s no signup, paid tier, or download gate.
+
+Direct download: [https://sessionloops.com/pitchnet](https://sessionloops.com/pitchnet)
+
+It’s still early-stage, so feedback from FL Studio users would be especially useful.",Recommendation/Discussion,"Relabeled Feedback -> Recommendation/Discussion (new definitions): shares a plugin/tool the author built, not their own music/mix."
+What can I do to take this hyper trap beat to the next level?,Feedback,
+I'm sorry but this just seems like such a waste of time. Just use a different OS?,Recommendation/Discussion,
+this is r/FL_Studio,Recommendation/Discussion,This one does not have a clear label. It is simply a statement about the subreddit. I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help.
+"here’s my free controller plugin for FL: Pattern Bank
+
+I built this NATIVE FL plugin so you can build complex effect racks in FL Patcher.  Here's why it's better than any other controller in FL:
+
+\+ Save banks of controller patterns (up to 100 presets in each)  
+\+ Create random patterns with algorithms: Filter Stabs, Melodies, etc.    
+\+ Draw your own pattern with intuitive brush modes: Saws, Squares, Steps, etc  
+\+ Modulate the spline points in realtime via Mod Knobs  
+\+ Retrigger the pattern with Midi notes  
+\+ Create internal loops and Automate their Start and End points   
+\+ Link to FL's synths and effects just like Fruity Envelope Controller / Peak Controller / etc  
+\+ Add up to 8 outputs in one instance of the plugin
+
+Grab it for free on my patreon:   
+https://www.patreon.com/Runnit/posts/169257970
+
+MUCH LOVE &amp; GET COOKING 👨‍🍳  
+Nick / Runnit",Recommendation/Discussion,
+"How to make many versions of same sample without ballooning file space?
+
+When I tried taking a sample of a specific song, I put the entire 5 minute song as the sample and then cut it up. I then needed to make multiple versions of the same sample for something I wanted to do. However, when I created the multiple versions, the file space grew 1000MB, which is a lot. I think this happened because FL Studio saw this as me making multiple versions of a 5 minute long sample, not a 5 second one. How do I truly isolate a sample and make it so clones of it aren't registered as 5 minute long samples? I'm new to FL Studio and I don't know a lot about it",Help/Advice,Ambiguous between Help/Advice and Tutorial. Applied primary-rule: Help/Advice.
+"What kind of vibe does this give?
+
+Just messin around and stuff",Feedback,
+"Yeah you just gotta adjust it before you do it, and if you charge back same thing. As long as you know before hand its chill",Recommendation/Discussion,Relabeled Tutorial -> Recommendation/Discussion (new definitions): vague conversational reply; does not teach a process.
+"FL NewTime destroys my audio
+
+I am using newtime to quantize a real life drum recording (all in one track) and it works when loading the audio and setting / moving the markers. Once i want to drag the audio back into the playlist and i listen to it it sounds so bad. Like if it has been resampled. Like bit crush. Maybe it's the nature of it? Do you find this problem? Are there alternatives?   
+I feel like if it warped the time when there is silence it would sound just as good as the original but warping it on the transients completely destroys the sound.",Help/Advice,
+"My speakers are pretty good quality, but I agree, that’s definitely not want I want to be using. I’ve really had no issues with my headphones with lag whatsoever so I don’t feel the need to get new ones unless I can’t solve this",Recommendation/Discussion,
+"How to get automation filter to sound right
+
+Hi I want my automation filter to sound like the one in it’s murphs song “fade into nothing” at 2:52, but I feel like I just can’t make mine sound as clean or on time if that makes sense. Please let me know.",Help/Advice,
+"anyone know why this isnt working?
+
+for some reason this specific plugin just wont work. ive seen it recommeded by lots of different people. i installed it the same way ive installed all my other plugins this one just wont show up for some reason. any ideas?",Help/Advice,
+"Give advice please
+
+same as the title. any kind of advice is appreciated(been producing for 8months)",Help/Advice,"Asks for 'any kind of advice' without a specific technical problem; may be a track share (Feedback). Kept Help/Advice, review."
+My guess is it’s pirate version and antivirus deleted it,Recommendation/Discussion,
+"Im starting to understand a little. Sorry, I’m not all that familiar with the world of computers. I need one that is able to run heavy Fl studio projects. If there is a better alternative in laptops then I would most likely prefer that so I can take it on trips sometimes. If all the good support is in desktops then I would be hapoy to get it. I would prefer it to be under 1500$. I know that’s a lot to ask. Maybe being more specific myself can help you a bit?",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking for a computer recommendation (production hardware).
+"I tried looking and I didn’t check too hard but this could maybe be it?
+
+https://amg-software.com/amgkickassbrass/kickassbrass.html
+
+If that isn’t it check here maybe. It should have all (known) sound sources listed here
+
+https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/htmlview/sheet?headers=true&amp;gid=1892069477#rangeid=1424006613",Recommendation/Discussion,
+The ending a saga Saturn knight games,Recommendation/Discussion,
+Love it!,Recommendation/Discussion,
+"Pls help me install everything for FL studio
+
+I’m using a MacBook, and I’ve already installed the fl, But I don’t have a license for it and I don’t know where or how to install all the loops, drum kits, and stuff like that.",Help/Advice,
+F6 to open/hide patterns F5 to open/hide playlist.,Tutorial,
+"Having issues using a bluetooth headset
+
+FL works perfectly fine whenever i am using my mac book speakers, but as soon as i switch to my headphones, the track freezes and i cant hear any playback. I have tried some common quick fixes like creating an aggregate device, making sure the kHz of the headphones match the default in FL, and turning off auto close. This is a pretty big deal for me as I don't get the chance to just play the audio out loud without disrupting someone near me as I'm doing most of my work in public spaces.
+
+Edit: I found a solution, and I hope this is permanent, but I was on an outdated version of macOS. The new 27.0 update for whatever reason fixed this. No clue why but if anyone has the same issue see if you have an update to do",Help/Advice,Ambiguous between Tutorial and Help/Advice. Applied primary-rule: Tutorial. | Relabeled Tutorial -> Help/Advice (new definitions): primary content is a troubleshooting request; edit only reports the fix.
+Post it? Where?,Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): conversational question, not a technical problem."
+"You can add new tabs in FL browser with folders that you want for quick access etc.
+
+Select folder that you want in the FL browser, right click on it-&gt;select open in new tab-&gt;FL will make new tab in browser with that folder name.
+
+To add other folders to this tab, select a folder-&gt;right click on it-&gt;select add folder to tab-&gt;select the tab that was created previously-&gt;FL will add it to the tab. Now you have custom tab where you can add only what you need.
+
+You can rename it too by right clicking on a tab and selecting """"""""rename, color and icon...""""""""",Tutorial,
+"And yet, they're almost always upvoted by others, so maybe you're not very good at reading people and you read emotion or snark where there isn't any? I'm Dutch, we're curt. Welcome to Earth?",Recommendation/Discussion,"""There is no label for this one as it is just a statement. For now, I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"la interfaz influye mucho en la calidad de tu grabacion, siempre puedes usar pluings para mejorar eso",Recommendation/Discussion,
+"It's fairly unique, but otherwise I'm a bit unsure.
+
+I'm not super experienced with the more technical stuff yet, so if anyone has any feedback on how to make future projects sound more polished/professional, or if the structure of the track could be improved, I'd appreciate that. Also, is the sound design good? I used sytrus for all of them (except one is a flex preset). There is slight lag at 2:52 in the video where the audio stops for a split second instead of flowing normally, idk why it did that but I didn't want to re-record it.",Feedback,
+Im guessing hes using a mac. Never ran into something like that on pc,Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+Are you for real? Just like that?,Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"how do you organize hundreds of beats so you can find the right one fast?
+
+folders by date, by bpm, by type beat, a spreadsheet? curious what works when an artist asks for something specific and you need it in a minute",Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): workflow/organization discussion, not a specific technical problem."
+"Wow, TIL. I know about USB ports for FW updates but using it that way is new for me",Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+Others dudes trippin what you said is 100% facts 😂,Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"Looking for guitarist
+
+Hey, I've ran into a problem and i'm looking for help. I like to create music in FL but I don't play or own a guitar. So I just use guitar plugins but it doesn't really replicate that live sound no matter how expensive. I'm kinda stuck moving forward with my music without someone to play. A lot of ppl get the bag and don't care about the result. I would love to connect with someone who is passionate about creating music and happy to lend a helping hand in the final results or bounce ideas off each othet or just talk about music! Anybody skilled in recording and playing electric and acoustic guitar.",Recommendation/Discussion,"Ambiguous between Help/Advice and Recommendation. Applied primary-rule: Help/Advice. | Relabeled Help/Advice -> Recommendation/Discussion (new definitions): seeking a collaborator, not technical help."
+"Hey u/_YEEZY_, thanks for submitting to r/FL_Studio! Take a moment to read our [rules](https://www.reddit.com/r/fl_studio/about/rules).
+
+It appears you're looking for help. Please [read the frequently asked questions](https://www.reddit.com/r/FL_Studio/wiki/faq/) in our wiki, if you find the answer you're looking for, please consider deleting your post. If you don't find the answer, your thread can remain active and other users will be here to help you shortly.
+
+Please do not post your question more than once and please be patient.
+
+Join our [Discord Server](https://discord.gg/27wgKfafmP)!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/FL_Studio) if you have any questions or concerns.*",Recommendation/Discussion,"Ambiguous between Help/Advice and Recommendation. Applied primary-rule: Help/Advice. | Relabeled Help/Advice -> Recommendation/Discussion (new definitions): automod bot message; matched to other bot rows (47, 66, 128, 148)."
+"that's the one that finds samples by how they sound, right?",Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"How to clean up the Browser
+
+https://preview.redd.it/waa2749j8iqh1.png?width=192&amp;format=png&amp;auto=webp&amp;s=4285d6757972508c9e72dff55206c5545bc43a3a
+
+Hello there. I reinstalled FL. I want to have a cleaner look. For example I deleted the speech folder (Right Click &gt; Shell Window &gt; Delete) but its still there, so is the Demo Projects folder and the FL CLOUD one. I just want them removed so i cant see them in my Browser. I know its much to ask for but is there someone that can help little stupid me?",Help/Advice,
+"Hey u/MapleFishh, thanks for submitting to r/FL_Studio! Take a moment to read our [rules](https://www.reddit.com/r/fl_studio/about/rules).
+
+It appears you're looking for help. Please [read the frequently asked questions](https://www.reddit.com/r/FL_Studio/wiki/faq/) in our wiki, if you find the answer you're looking for, please consider deleting your post. If you don't find the answer, your thread can remain active and other users will be here to help you shortly.
+
+Please do not post your question more than once and please be patient.
+
+Join our [Discord Server](https://discord.gg/27wgKfafmP)!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/FL_Studio) if you have any questions or concerns.*",Recommendation/Discussion,
+"Alright, I really appreciate your encouragement 🙏🏻",Recommendation/Discussion,
+"[Remake] Deltarune - Field of Hopes and Dreams (Made completely from scratch)
+
+hi, just wanted to share this remake I've been working on. recreating Toby Fox's style is always a journey. everything you hear was sequenced and mixed by me, trying to emulate that specific orchestral/synth fusion without using any original song samples. if you have any questions about the VSTs or soundfonts i used, feel free to ask
+
+full song here: [https://youtu.be/HxbIzQyIQc0?si=j8gvtGHbFgend9Gy](https://youtu.be/HxbIzQyIQc0?si=j8gvtGHbFgend9Gy)",Feedback,"Shares remake ('just wanted to share') without explicit feedback request; kept Feedback, review."
+"FL Crashing
+
+FL is crashing instantly every time I try to do something, I tried to reset and I also installed it new",Help/Advice,
+"How do you lot not get stuck in making a loop
+
+I love everything about fl, all the features are amazing, stock plugins beautiful, etc but my only issue is making things with patterns, I just get stuck making unfinished 8 bar loops with no development that just rot in my hard drive. I’ll come up with an amazing idea just for it to get stuck in purgatory💔🥲, anyone have any tips to get out of this mindset/habit idk what to call it",Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): creative-habit discussion, not a technical problem."
+Soundbar is a no go for music production when you are activily making adjustments. They have ton of DSP features.,Recommendation/Discussion,
+"i need help
+
+i woke up and got this error on my project, please help idk what to do, i mostly use splice.",Help/Advice,
+"Anyone know a nice free volume plugin where 100% volume is the default?
+
+I just wanna make things quiet sometimes and not have to deal with setting my automation clips to 80% instead of 100% for max volume with fruity balance :p",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking for a plugin recommendation.
+Vice City Nights,Recommendation/Discussion,"Title only; likely a track share. Kept Recommendation/Discussion, review."
+"Novation flkey 49 compatible keyboard stands
+
+Looking for recommendations for a suitable keyboard stand for the novation flkey 49
+
+I would like it to be solid and preferably £50 maximum cost or there abouts?
+
+Any help is much appreciated...",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking for a keyboard stand recommendation.
+"Switch bpm’s in songs without BPM automation?
+
+The way automation clips work throw my tracks out of sync and don’t work for what I’m doing. I need to be able to jump to different BPM’s in songs and with the way automation works I can’t jump to a higher BPM than the starting one. No, I’d rather not want to consolidate audio to make it work otherwise, especially if I’m programming drums and will might change them a bit later.
+
+If there isn’t a good solution to my problem, anyone know any daws that might work better for my needs?",Help/Advice,
+"Please help with Zenology Preset Bank!
+
+I recently purchased a preset bank for Zenology but it won’t let me import them. The files are listed as “FL Studio preset file” in my file explorer. From what I can tell online you’re supposed to have SDZ files? Can anyone help me figure this out please?",Help/Advice,
+"Why in the set SGM V2. 01 There are two of these tools if they are not different
+
+As soon as I installed this set of musical instruments, I wondered why there were two identical instruments. Please tell me. By the way, I am writing this text with a built-in translator.",Help/Advice,
+"Which FL Studio step wastes the most time for you?
+
+I’m trying to understand where producers lose the most time in their workflow. Is it organizing samples, finding patterns, structuring projects, exporting, or something else?
+
+I’m genuinely curious which part of the process keeps slowing other producers down.",Recommendation/Discussion,Ambiguous between Help/Advice and Recommendation/Discussion. Applied primary-rule: Help/Advice. | Relabeled Help/Advice -> Recommendation/Discussion (new definitions): broad workflow discussion/poll.
+"Anyone knows how to replicate this trumpet?
+
+I've been obsessed with finding out how to replicate this trumpet, used extensively in the persona series from 3 to 3 remake, have no idea if it's synthetic or live-recorded.",Help/Advice,
+"PLEASE HELP. IM SO HURT RIGHT NOW. MY NEW SAVE FILES ARE GONE
+
+I save my projects with every change I make. I’ve never had this happen before. All my new save files have completely disappeared. I was almost done creating a new collection of music. The only thing I’ve done differently was open projects I’ve worked on a year ago, some vst I no longer had. Next thing you know. All my new saves are just gone without warning. Please tell me there is something I can do!!!",Help/Advice,
+"How do I made this screen smaller
+
+No idea how I did this but I’ve made this screen a lot bigger/more zoomed in. How do I make it to where it’s smaller/more zoomed out?",Help/Advice,
+I'd definitely recommend getting a decent pair of headphones for production. You have to reduce the amount of signal processing that things like soundbars will introduce.,Recommendation/Discussion,
+"How do I get the far right user data browser column to appear?
+
+I have FL running on two computers and I noticed one computer doesn't have the far right user browser column, how do I add it to my other computer that doesn't have it? Both versions are up to date although one computer runs Windows 11 and the other Windows 10 not sure if that matters",Help/Advice,
+"Hey u/TranslatorAny8556, thanks for submitting to r/FL_Studio! Take a moment to read our [rules](https://www.reddit.com/r/fl_studio/about/rules).
+
+It appears you're looking for help. Please [read the frequently asked questions](https://www.reddit.com/r/FL_Studio/wiki/faq/) in our wiki, if you find the answer you're looking for, please consider deleting your post. If you don't find the answer, your thread can remain active and other users will be here to help you shortly.
+
+Please do not post your question more than once and please be patient.
+
+Join our [Discord Server](https://discord.gg/27wgKfafmP)!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/FL_Studio) if you have any questions or concerns.*",Recommendation/Discussion,
+Absolutely goated program,Recommendation/Discussion,
+What sort of percussion is being used here?,Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking to identify instruments/sounds, not troubleshooting."
+"Probably better to edit any more details into your post, so everyone can see them. But for that budget I would have a look around to see who's doing decent prebuilt desktops.",Recommendation/Discussion,
+You can mix with your headphones. You just need to know what an actual good mix sounds like in your headphones. More people will likely listen to your music in their car. So mix for a car. Make sure your car stereo is set up flat and doesn’t have the bass boost or anything turned on as well.,Recommendation/Discussion,Ambiguous between Recommendation and Tutorial. Applied primary-rule: Recommendation/Discussion.
+"Future Bounce like Enman or Adi
+
+the melody sucks i think",Feedback,"Shares own work with self-critique, no explicit request; kept Feedback, review."
+Dude if you go to presetshare.com website there are thousands of presets for vital serum and others there..,Recommendation/Discussion,
+"Tried making an orchestral song with no music theory, any tips?
+
+I just turned 14 so happy birthday me I guess",Feedback,
+I am running all sorts of plugins and vsts with 8gb. You just have to render instruments and mixer channels often to save space but it can work,Recommendation/Discussion, Ambiguous between Recommendation and Tutorial. Applied primary-rule: Recommendation/Discussion.
+"Would I be able to use plugins on other devices if they are put onto a USB stick?
+
+Hi all, I have started doing music technology at college which mainly focuses on DJing and Production. Doing production at college means I have to use Studio One which is really frustrating since I have invested so much into FL. I'd like to be able to use my plugins for FL on Studio One but our college computers don't allow us to install apps. If I loaded my USB with plugins, would I be able to use those plugins without installing them?
+
+    
+Obviously I am talking about third party plugins like Surge, Wavetable, and so on, not FL studio plugins.",Help/Advice,
+goofy ahh song made with pvz soundfont,Feedback,"Shares own work without explicit feedback request; kept Feedback, review."
+"Free tool: pull stems from any YouTube song, runs locally
+
+I built a small app that pulls stems from Youtube. You paste a link or search and it splits it locally (no cloud) and gives you vocals, drums, bass, etc. that you can extract to FL or use a reference. No account needed, it is free and open-source.
+
+Note: Personal use only. respect the source tracks.
+
+Edit: link to the project: [https://stemkit.pages.dev](https://stemkit.pages.dev)",Recommendation/Discussion,
+"Which artist would fit this beat? Ion  know
+
+lowkey fire tho",Feedback,
+"Just Starting with FL studio
+
+Hey everyone!
+
+I’ve just started getting into FL Studio and I’m basically a complete beginner. I’m looking for some tips and advice to get started and understand the basics.
+
+I’d especially like to know:
+
+* Which hotkeys/shortcuts are actually useful and worth learning?
+* Are drum kits/sample packs worth getting? If so, where can I find some good **free** ones?
+* How do you create a really simple beat as a beginner? What should I pay attention to when starting out?
+* Are there any common beginner mistakes I should avoid?
+* Are there any good websites, tutorials or guides where I can read/learn the basics of FL Studio and music production?
+* Is there anything you wish you had known when you first started?
+
+I’m mainly looking for beginner-friendly advice and free resources for now. Any tips, recommendations or useful websites would be greatly appreciated!",Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): general beginner advice and resource recommendations, not a specific technical problem."
+"8b should be enough if you're just recording vocals over a beat. You might have trouble running Serum 2 or some of the flex packs with only 8gb, but you can work around it by consolidating midi to wav.",Recommendation/Discussion,Ambiguous between Tutorial and Recommendation. Applied primary-rule: Tutorial. | Relabeled Tutorial -> Recommendation/Discussion (new definitions): hardware advice/opinion rather than teaching a process.
+Maybe be a little more specific??,Recommendation/Discussion,
+"How do you handle the files?
+
+I previously had all my files on my laptop, which unfortunately only had 500 GB ssd of storage and couldn't be expanded. Now I've moved the files to an external storage device, and it's a mess. I can't find anything in the browser anymore. Before, everything was on the laptop, and I could find things very quickly. Should I still use external storage? Is that even possible anymore, and if so, how?",Help/Advice,
+"Alright, I’ll try that out thanks!",Recommendation/Discussion,
+what would u change abt this mel (ignore the drums ik they’re ass),Feedback,
+"Problems with sound fonts in FL Studio Mobile
+
+I absolutely adore sound fonts, and love using them, but anytime I try and use more than two it completely crashes my app. I assume it takes way too much effort to load multiple tracks with full instrument libraries, so is there anyway that I could have a track that is only just the one instrument I need from the giant sound font without needing to load every single one?
+
+I know I can probably convert it to a audio clip and then re-imported, but I get super antsy whenever I can’t go back and edit my piano rolls. I might be able to export it as many and put it back in? But I’m looking for something a little more clean/efficient if possible…
+
+Thanks!
+
+Okay edit i solved my problem because I’m so smart and funny and cool haha
+
+ahem
+
+Anyway I downloaded an app called RSF2 (basically just an sf2 manager (it can also create them apparently but I don’t really care about that!)) and used it to pretty much unpack all the .sf2 files i had..
+
+Then I just saved all the individual files in a separate folder.. and repeated for all my sound fonts
+
+Now I could just boot up a sound font, choose the one I like, and then once everything’s all set I’ll load the file that only has that one instrument into the soundfont loader so it doesn’t absolutely annihilate my RAM
+
+:D",Help/Advice,Ambiguous between Help/Advice and Tutorial. Applied primary-rule: Tutorial. | Relabeled Tutorial -> Help/Advice (new definitions): post is a troubleshooting request; edit describes how author solved it.
+"Help with Momentum Sampler by BigFish Audio
+
+Getting straight to the point 
+
+When i drag n drop the .wav file, it does not read the file and gives a blank. (and switching to slice tab does nothing)
+
+Is there any way to fix this? Or am I doing something wrong
+
+And if possible can anyone guide me through steps, I would appreciate it",Help/Advice,
+"I did this before going to school, tired and depressed -_-
+
+Sorry if it sounds a bit off DX. My headphones are terrible.",Feedback,"Shares own work without explicit feedback request; kept Feedback, review."
+"Just finished this
+
+First song on fl https://www.newgrounds.com/audio/listen/1621912",Feedback,"Shares first song without explicit feedback request; kept Feedback, review."
+"Building A Vocal Chain Cheat Sheet
+
+I have this idea of making a vocal chain cheat sheet site for beginners or overall for everyone, where when you search up the artist, you immediately find their vocal chain sheet from default FL plugins, paid, or any other DAW, may not be accurate but will be close, and you'll be able to export it directly to your DAW with steps on how to record exactly like the artist and how to import it to your mixer step by step. I want to make a free version like that and make a paid version (only doing to support  maintenance and bug fixes), how much are you willing to spend on the paid one and what should the benefits be? Any critics would be helpful thank you so much!",Recommendation/Discussion,Ambiguous between Help/Advice and Recommendation. Applied primary-rule: Help/Advice. | Relabeled Help/Advice -> Recommendation/Discussion (new definitions): pitching a product idea and asking for opinions.
+"Why does my version sound lifeless
+
+I am a music noob trying this out for the first time. Been playing with FL for a couple days and everything just sounds lifeless. Was watching this video on youtube and saw these notes written out and thought- why don't I just copy this verbatim and see if it sounds as good.
+
+I know their version has other stuff going on but the notes on their violin blend together so much better and feels much more alive. I don't have the words to describe it.
+
+Help me understand what i'm hearing.
+
+(source video: [https://youtu.be/8H9hesmjZlI?si=Is8vxWKaBrpvNtFe&amp;t=30](https://youtu.be/8H9hesmjZlI?si=Is8vxWKaBrpvNtFe&amp;t=30))
+
+  
+Edit: Thank you all for the constructive comments. I am very appreciative. This gives me a lot to go on and a lot to experiment with!",Help/Advice,
+"Lil Boom bap
+
+Anything is should add change ? Recently got ad2 still trying some things out.",Feedback,
+"Halloween is only . . . a month and a half away. I'm not crazy, I SWEAR
+
+VERY early in the works, so I'm not concerned about things like song structure. Does the sound design work for a """"""""deepest pit of hell"""""""" thing? trying my hand at heavier stuff slowly.",Feedback,
+"I disagree, but fair enough, I'll try to pay more attention but can't promise improvement.",Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"Its one thing to be curt its another to just blatantly not answer peoples questions and instead have some remark that brings people down. I think you to come down to earth my friend. Most people here seem like they are 13-18, probably have no money, no understanding, and yet you speak to everyone here like theres no such thing as a struggle. 
+OP asked for a laptop that can record vocals and use a couple plugins not a professional grade workbook.
+
+The last post I remember you on, OP brought up a way to avoid using the mixer slider for volume automation and I wanted to help out and add another method. You come on in and send a whole manual page about how to use the mixer slider completely ignoring what the discussion is about.
+
+I dont dislike you. I just hate that I can tell youre a very smart, informative fellow, but you can never ever seem to understand what anybody is actually talking about",Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"Vocal recording issue
+
+Hi guys, I need some help with figuring out why my vocal recordings have no high end frequencies. There's a hard wall around 500Hz-1kHz where the energy just falls off a cliff, and by the time it gets above 4kHz it's essentially gone (40dB+ quieter than 150-500Hz region).
+
+Windows system audio enhancement is turned off. 
+
+So far, I have tried:
+
+Different projects / recording on a completely empty project
+
+Different computers
+
+Different Mics (AudioTechnica AT2035 and Tascam TM-80)
+
+Different vocalist (had a female sing to rule out if it is just the tone of my voice)
+
+Different recording environment i.e. with/without pop filter, singing closer/farther to/from the mic
+
+Only thing I haven't been able to rule out is the audio interface (Tascam US 2X2)  as I don't have any spares. I want to rule out any other potential issues before investing in a new one.   
+Any help/suggestion will be much appreciated.
+
+Thank you!
+
+*PS: Have also asked the question in Image-Line forums.*",Help/Advice,Ambiguous between Help/Advice and Recommendation. Applied primary-rule: Help/Advice.
+"Wow,  that’s interesting.
+
+Thank you for the encouragement 🙏🏻",Recommendation/Discussion,
+"Hey I want to learn fl studios but I’m a bandlab user
+
+I don’t know where to start honestly and I hate that I waited too late I’m 21 I’ve been using bandlab to make music for almost 5 years its all I know I wish I would have knew about other daws when I first started making music but I originally only made music for myself and now I want to expand it to the world I want it to sound as sonically pleasing as possible and everyone is learning and self producing and it make me like a complete noob and tbh I kinda am I don’t know about music theory or how to mix and master let along how to even record or work fl studios I’m looking for help and positive advice anyone?",Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): general advice on getting started, not a specific technical problem."
+"New song!! Making more punchy, atmospheric, electronic music. Been doing music for about a year now. Any pointers, thoughts?",Feedback,
+"How can I record FL Studio with OBS while using ASIO4ALL?
+
+Hi everyone,
+
+I'm trying to record my FL Studio screen with OBS, including the audio from FL Studio.
+
+The problem is that I'm using ASIO4ALL as my audio driver in FL Studio, and I can't figure out how to get OBS to capture the FL Studio audio properly while also recording the screen.
+
+My current simple setup is:
+
+FL Studio
+
+ASIO4ALL
+
+OBS Studio
+
+Windows 10
+
+I'd appreciate a step-by-step explanation if possible. Thanks!",Help/Advice,
+"Chill boombap loop
+
+What do you think? Maybe I should remove guitar?",Feedback,
+"Finally Joined the Club After 20 Years - The All Plugins Flash Sale Finally Got Me.
+
+I started messing around with FL when I was 13 and I really never thought the day would come where I could swing the whole suite like this. Feels good to be secured with FL for years to come now and I just wanted to share the excitement! When did you guys finally join the club??",Recommendation/Discussion,
+What the FUCK is blessing my ears rn?,Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"Drum &amp; Gaze, Shoe &amp; Bass, Breakgaze
+
+all guitar here is entirely virtual and not played by a human, this is just me as a producer of electronic music in general who also loves shoegaze and 90s rock music = this.",Feedback,"Shares own work without explicit feedback request; kept Feedback, review."
+"Well, I would say love and curiosity… Though, I do play instrument but for a long time I have been thinking on what hobby could possibly become a life time skill for me.. 
+
+Since music is where my passion lies then why not learn more on how it’s being done and possibly use my creativity to build something… This is the point I am now.
+
+I’d like to know, have you had any breakthrough yet since you’ve started I mean like any hit or a banger?",Recommendation/Discussion,
+"1st week in FL Studio 🙈
+
+I have watched almost 20 videos since I installed FL in the past 4 days now, with some inspirations this happened to be my first attempt to screen record and post it on here… Do y’all think I’m on the right path?",Feedback,
+Was fl installed under a different user account on the pc? If you do not install as admin/for all users it may go to the userprofile install directory instead of program files,Tutorial,
+"Hey, sorry for not replying back. I was able to fix the problem. FL Cloud apparently wasn't up to date, which was weird to me at the time cause FL got updated on the same day it started happening.
+
+Took maybe two updates for everything to be fixed, UVI is working just fine now too.
+
+I also checked if it was managed by OneDrive and it wasn't.",Recommendation/Discussion,Ambiguous between Tutorial and Help/Advice. Applied primary-rule: Tutorial. | Relabeled Tutorial -> Recommendation/Discussion (new definitions): status update that the problem was fixed; neither asking nor teaching.
+"How do I get sounds that I can play on my midi keyboard?
+
+I've been looking up tutorials on how to get sounds, but they kind of just say to grab a folder with sounds and then drag it into the left side. Nothing that I've seen so far has talking about using it with a midi keyboard. I have an FLkey49, and I've been using the piano. As fun as the piano is it's not what I got the keyboard for.",Help/Advice,
+"RAM isn’t even the limiting factor, my CPU is STRUGGLING the second I write chords on Serum 2",Recommendation/Discussion,Ambiguous between Recommendation and Help/Advice. Applied primary-rule: Recommendation/Discussion.
+Need to right click the BMP button and reset it. If I remember correctly it’s reset properties or value to 0 or something,Tutorial,
+"Updated version
+
+Made a post with this song last week. Made some changes to it but I'm still struggling with low end. 
+
+If anyone has some good tips on that please let me know, can't get it to sound good across all platforms.",Help/Advice,Ambiguous between Help/Advice and Feedback. Applied primary-rule: Help/Advice.
+Thank you for being respectful about it. I never said you werent a cool dude 🫡 that was very gangster,Recommendation/Discussion,
+"Sure, however if you know you're not going to edit a track and it has a bunch of plugins just render it. If you do this for many tracks it starts adding up the CPU cost savings",Recommendation/Discussion,Ambiguous between Tutorial and Recommendation. Applied primary-rule: Recommendation.
+Can you maybe link it?,Recommendation/Discussion,
+"&gt; Mildly outdated but thanks
+
+Older videos should work just fine as a guide.  None of the functionality of Sytrus has changed since it was released.  All they've done is moderately updated the UI, and even then, it's not a radical update.",Recommendation/Discussion,Relabeled Tutorial -> Recommendation/Discussion (new definitions): recommends older videos as a resource rather than teaching a process.
+Is the mix okay,Feedback,
+"in my early days i used fruity mute, then automate FX wet level",Recommendation/Discussion,
+"Also 1000s. Also found some hidden gems.
+Each year I start a new folder and that years stuff lives there.
+When I name projects I'll put a number from 0-10 at the beginning based on how """"""""complete"""""""" it is. That way at a glance I can see what stage each track is at / what to expect. I'll update that number as I work on it.",Recommendation/Discussion,Ambiguous between Recommendation and Tutorial. Applied primary-rule: Recommendation.
+"Which part? The backup is an external enclosure with drive(s) in it that you plug in (via usb-c or the like). The system drive (nvme) you would indeed have to open your computer for, unless you go for a prebuilt machine. Depending on where you live it's actually not all that much more expensive to get a prebuilt compared to building it yourself.
+
+The problem with """"""""specifics"""""""" is that it depends entirely on the exact things you want to do, so if you just want a general purpose machine that's great for FL, a decently specced prebuilt machine is almost certainly going to work. Those don't come with external backup drives but that's a well established category of products and most shops have dedicate sections for them.
+
+And the last thing you'll probably want if it's a Windows desktop, and I can't believe I forgot to mention that, is an Audio Interface so you get proper low latency recording and playback - they \_can\_ be incredibly expensive, but if you're just starting out there is no need to go overboard and a Behringer UM2 will do just fine, at about $40.",Recommendation/Discussion,
+"You should be able to double click the pattern to open up the channel rack. Alternatively, there’s a button at the top menu. Alternatively, if you go in the very top menu and click view. You can hit channel rack. 
+
+https://preview.redd.it/24jo2lvc6xqh1.jpeg?width=2193&amp;format=pjpg&amp;auto=webp&amp;s=8d21ee5ff2217684f25661b5e8eb330c341aa505",Tutorial,
+"[Remake] Undertale - Hopes And Dreams (by Toby Fox)
+
+Here is my remake of """"""""Hopes And Dreams"""""""" on FL, what do you think? let me know if I should drop the FLP",Feedback,
+I suppose you will fill this way but as i mentioned in my description Is that I was suffering in cachyos so I switched to this OS and I like.,Recommendation/Discussion,
+"Isnt faceit designed for better matchmaking and cheat detection and your """"""""friend"""""""" cant even run it? Smells like crack and pirate hats gone wrong",Recommendation/Discussion,
+"How do I put Delay/FX on just one note in a pattern?
+
+I've always gotten annoyed by having to clone a pattern to get delay on just one note or part of a pattern. I tried routing the synth to a new track that has delay on it after reading that would work, but I can still hear the chords that came before the specific part I want. I turned the volume all the way down on the delay send track and automated it to only increase at the part I need and in theory it should work because there's no sound before the audio goes up for the delay to hit but it still does it. I can easily just make a new pattern with only the one chord in it but I run into this situation so often and feel like there has to be some way to do this that's easier.",Help/Advice,
+"I think this song needs a better mix. The drums are to far in front and the instruments all sound like separate things. Maybe turn the drums down a little and work on have a reverb bus to glue things together more. Pan some things left and right. 
+
+I only listened on my phone but I can tell that these are problems, so they must be big problems with the mix. List to your mix on multiple speakers in multiple environments. Take notes, go back and adjust. Listening in your car is a great place to evaluate a mix. Listen in multiple cars if you can. 
+
+From a song writing perspective, your intro is too busy and doesn’t hook me in or give me a preview of what to expect for the rest of the song.",Recommendation/Discussion,
+"want that 90s sound? just use a rompler keyboard
+
+most of the sounds in this project were recorded using a Roland Juno-DI, with the exception of the bass (Moog Messenger), the """"""""funky lead"""""""" riser, and the FM Pluck (Korg Microkorg 2)
+
+the drums were sequenced by a collaborator, and they wanted the song to sound like it came from the mid 90s/early 00s. I think I did a decent job, though don't ask me about the sound selection, because there wasn't much thought put into it besides """"""""that sounds good"""""""".",Recommendation/Discussion, Ambiguous between Recommendation and Tutorial. Applied primary-rule: Recommendation/Discussion.
+"fl studio's background doesnt change color when adjusting theme settings
+
+https://reddit.com/link/1wlbp5l/video/bpns0u6z0nqh1/player
+
+is this normal or not?",Help/Advice,
+"Hey u/Pepinito5, thanks for submitting to r/FL_Studio! Take a moment to read our [rules](https://www.reddit.com/r/fl_studio/about/rules).
+
+It appears you're looking for help. Please [read the frequently asked questions](https://www.reddit.com/r/FL_Studio/wiki/faq/) in our wiki, if you find the answer you're looking for, please consider deleting your post. If you don't find the answer, your thread can remain active and other users will be here to help you shortly.
+
+Please do not post your question more than once and please be patient.
+
+Join our [Discord Server](https://discord.gg/27wgKfafmP)!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/FL_Studio) if you have any questions or concerns.*",Recommendation/Discussion,
+You need a eq that has sidechain capabilities with specific bands or a multiband compressor like TDR NOVA Pro Q or Pro MB,Recommendation/Discussion,
+USB-C supports video over DisplayPort if DisplayPort Alt Mode is implemented in the USB-C port. Very common on laptops.,Recommendation/Discussion,
+"The easiest way to do this with stock fl would be using peak controller on a low shelf or a big notch, using the kick signal to duck it with.   
+This does create a lot of phase rotation and ressonance/cancellation so it’s probably better to enable the Linear phase EQ option. But it is possible.   
+There are some guides for it search something like Peak cotroller EQ Sidechain Fl on yt. 
+
+But to address it more.   
+The low end frequencies are still hearable after mastering due to compression, gain etc.   
+you actually want minimal freq overlap in the 100hz range and below as that’s where the sub will be.   
+I would in fact recommend doing a steep highpass curve on bass at 100hz and synths around 200hz. Like 24dB/octave. To have minimal phase cancelation and low end rumble.",Tutorial,Ambiguous between Tutorial and Recommendation. Applied primary-rule: Tutorial.
+"FL Studio doesn't work properly with headphones on MacOS 27
+
+After installing MacOS 27, FL Studio just completely stops working properly when using headphones. I can use it fine through my laptop's default speakers and microphone, but whenever I set input or output to my headphones, there is absolutely no sound and the playback is frozen (it registers as playing but the playback needle and metronome don't move)
+
+I'm using the latest version of FL, but I'm guessing there's no MacOS 27 compatibility yet? Just wanted to be sure",Help/Advice,
+surge xt is my absolute favorite. (its free too),Recommendation/Discussion,
+"I’m not exactly sure which genre this falls into, but personally, it’s a bit too slow for me.
+
+That’s just my personal taste, though; I’m more into Hardstyle.
+
+Still, I really like it for a first remix.
+
+What I feel is missing is a real drop and/or a fake drop.",Recommendation/Discussion,
+can you perhaps link it? I cannot find it anywhere.,Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): conversational request for a link, not a technical problem."
+Dude fuck off,Recommendation/Discussion,
+"I'm good at composing melodies for dance music,  what can I do with this talent?
+
+Hi, I'm good at composing melodies for dance music, ....I'm wondering whether this is a talent I could actually build something around....",Recommendation/Discussion,Ambiguous between Help/Advice and Feedback. Applied primary-rule: Help/Advice. | Relabeled Help/Advice -> Recommendation/Discussion (new definitions): career/opinion discussion.
+"Check out Alex Moukala   
+[How To Create an Orchestral Template in FL Studio - The Definitive Guide](https://www.youtube.com/watch?v=ISdPBeNAnOI)
+
+It's from this playlist  
+[https://www.youtube.com/playlist?list=PLXsgPw9BIOXEvW1NyJSkvaXYLulUxJpl7](https://www.youtube.com/playlist?list=PLXsgPw9BIOXEvW1NyJSkvaXYLulUxJpl7)",Recommendation/Discussion,Relabeled Tutorial -> Recommendation/Discussion (new definitions): recommends a tutorial resource rather than teaching.
+"Yeah, that’s what ive been doing. It works for me but I mean if you wanna burn your music to CDs and hand them out do that bro 😎",Recommendation/Discussion,
+"Piano Roll Keys Are At Different Volumes
+
+The piano roll keys are all at different volumes but I want them all to sound loud all of the time. How do I change it so that it's not some that are quiet and some that are loud?",Help/Advice,
+SynthMaster,Recommendation/Discussion,
+That was a quick year...,Recommendation/Discussion,
+I have an ssd but it doesn’t fix too many issues besides one of my vsts that takes up my entire computer’s worth of space.,Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): hardware conversation, not a troubleshooting request."
+go watch a youtube vid it will help faster,Recommendation/Discussion,
+"Or use Bitwig. 
+
+Or buy a Mac. 
+
+This guide starts off with OP unable even to install Linux right. If you don't know what you're doing don't try to inform others. 
+
+Then the next step OP finds the newest version of FL doesn't work. 
+
+I can guarantee this wasn't tested against different audio stacks let alone interfaces. 
+
+I've worked in software for a very long time. 
+
+The short answer is no. FL does not work on Linux. Support Bitwig if Linux is a must have. 
+
+The long answer is you'll spend more time configuring it and fighting stability issues than making music. 
+
+Honestly the arrogance of the Linux community has made me take a step back from engaging with it. If you point out something is really really difficult you'll be insulted. You're the problem for expecting things to work without it taking 3 hours to fix. 
+
+You want application XYZ to work with Wayland. Well it doesn't. And it's your fault.",Recommendation/Discussion,Ambiguous between Recommendation and Tutorial. Applied primary-rule: Recommendation.
+"If there are, they'll be gone by the time we find them. If you want an all-round machine, 32GB of ram, a 5060, and a 2TB nvme main drive would be a good start, CPU wise it mostly depends on what you care about outside of FL Studio, and how fancy you want your motherboard to be ($500 for a motherboard with dual wifi and 10gbe networking, when you're going to plug in a 1gb network cable would be rather silly, for example =D)
+
+On important issue to think about too is that if you don't already have a backup solution (and I'm not talking cloud syncing like OneDrive or iCloud, but *actual* backup, where you run daily incremental backups so you can restore things to how they were on any day within the last few weeks) and you care about not losing your data, you also need to budget for an external drive (at least twice the capacity of your main drive), ideally two so you can lose one of them without immediately losing all your backups. One upside is that a backup drive can be a spinny platter HDD rather than an SSD, but thanks to the chip shortage and resulting SSD price hikes, way more folks are now buying HDDs again and their price has also gone up, although not *as* much as solid state drives.",Recommendation/Discussion,Ambiguous between Recommendation/Discussion and Tutorial. Applied primary-rule: Recommendation/Discussion.
+"Automatically rename channel based on the preset?
+
+Hey guys, I've searched the sub but didn't find anything related to this.  
+I'm using mainly Opus for my channel racks and it's so annoying to have to manually rename each one of them every time I add a new instruments. My rack ends up """"""""Opus #1 Opus #2"""""""" etc until I cave and rename them. Is there a way for the channel to read the preset and rename it accordingly? Thanks. Been using FL for 20+ years and this has always annoyed me. Thanks in advance.",Help/Advice,
+"Hey u/South-Minute-4654, thanks for submitting to r/FL_Studio! Take a moment to read our [rules](https://www.reddit.com/r/fl_studio/about/rules).
+
+It appears you're looking for help. Please [read the frequently asked questions](https://www.reddit.com/r/FL_Studio/wiki/faq/) in our wiki, if you find the answer you're looking for, please consider deleting your post. If you don't find the answer, your thread can remain active and other users will be here to help you shortly.
+
+Please do not post your question more than once and please be patient.
+
+Join our [Discord Server](https://discord.gg/27wgKfafmP)!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/FL_Studio) if you have any questions or concerns.*",Recommendation/Discussion,
+"&gt;But """"""""don't share what you learned unless you're already an expert"""""""" isn't really how any of us learn this stuff in the first place.
+
+You also direct people to some sketchy distro instead of a mainstream safe one. You have no idea what's in it, malware, etc. 
+
+Edit: If you really want to make a guide focus on a normal Distro, for example normal Fedora, and then ONE working method. 
+
+As is the guide is really difficult to follow.",Recommendation/Discussion,
+Check your antivirus my bro,Recommendation/Discussion,
+"Ima try that too, thanks",Recommendation/Discussion,
+It’s 2hollis esque,Recommendation/Discussion,
+"I don’t make money off it but yeah i do, and don’t dream just do it, you can’t create if you don’t build.",Recommendation/Discussion,
+"https://www.sononym.net/
+
+I have an older version I need to update but it can go key and style and such.",Recommendation/Discussion,
+"has anyone ever tried making music that uses 500 tracks in FL studio?
+
+recently i was trying to make a song using all pre-existing tracks, got somewhere around 140 used tracks but i guess my pc couldn't handle the amount of stuff and FL studio froze. then i started wondering if it's even possible, did anyone ever achieve this? :shrug:",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): curiosity/discussion question.
+"Is this lame or nice?
+
+Looking for feedback",Feedback,
+"Does Changing The Tempo Of Audio File Lower Quality In FL Studio?
+
+I change the tempo of audio files (such as samples or even entire song masters, if I am doing a mashup or DJ set, etc) in FL Studio a lot. However, I have started wondering if this process lowers the audio quality on the newly stretched audio file? 
+
+As an example in another program, I noticed when I altered BPMs using Audacity (at least how I was doing it) it makes the kick sound strange sometimes. It is subtle, but noticeable in some tracks that I changed the BPM. I haven't """"""""noticed"""""""" this in FL Studio, but wonder if anyone who is more technical know if the way the tempo/BPM is changed in FL Studio on an audio sample if it lowers the quality? I want all the audio I work with to be top quality without any lowered quality during any process like changing the BPM.
+
+  
+Any tips or advice is also appreciated! I have heard to turn the sampling to """"""""Stretch"""""""" for example.",Help/Advice,
+"ominous type beats
+
+repost because I noticed my last upload had a couple weird percussion placements :/ anyway, I'd love any feedback, opinions, vibes, tangential monologues, etc, ty!",Feedback,
+"Sounds pretty cool. You did a good job of adding/subtracting elements in and out of the mix to keep it interesting overall. I would work on making the drums have some variations like a drummer would. A fill every 4th time through for a simple example. 
+The """"""""10 second rule"""""""".. song shouldn't be static for more than 10 seconds. Instinctually the listener wants to hear elements added or subtracted. Based on that sounds like the drums could be varied some.",Recommendation/Discussion,
+"Tried making Toihouish track, but dad says its super amateur, thought?
+
+Feedback welcome",Feedback,
+"You'd basically do exactly what the video shows... 
+
+* grab the audio
+* throw it in Directwave because you not only need to set the loop but you need to set the loop type to bounce mode
+* then route to the mixer
+* add a reverb to the mixer
+* then use an LFO on either a gain or filter to get the precise sound you want.
+
+You should also be able set this same thing up in Patcher.",Tutorial,
+"best speaker combo
+
+Hi fellas,
+
+I thought that this community would be the best place to ask 'cuz I dont think any of you gets paid for their advice haha  
+I'm a beginner producer and a music maniac.  
+My headphones are dying. I have a turntable with good speakers and a good wireless boombox by soundcore, but my headphones and pc speakers suck. 
+
+I need a good combo of two to four speakers with a deep bass. The problem is, I have no space for a subwoofer, and I'd like to get something under 130$. Any advices?",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking for speaker recommendations.
+"I've A-B tested. It makes a difference.
+
+Ed: In general, if not in your case.",Recommendation/Discussion,
+I’m not quite following… Again any specific ones? I do not really want to break open my computer to insert an hdd.,Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking for hardware recommendations.
+"Microphone for traveling that is not too big?
+
+Hello,
+
+I create music in a DAW and I am looking for a microphone which I can take with me when I travel, so it shouldn't be too big, my budget is max. $150. I want to use it for creating sound effects and recording some vocals, but only doing short vocals of 1 to 5 words, it's for EDM music, so I won't be singing through an entire song, I willl basically make vocal shops.
+
+I did some research on the internet to see what mic would be compact enough and in my price range. I found 3 condensor and 2 dynamic microphones. I know that XLR with an audio interface is better than USB, but USB in my case is just more suited for traveling and setting up, I also won't use a boom arm because of it. Here are the microphones I found and liked:
+
+* **AT2020usb-x:** Condenser microphone. It is pretty compact and I like its design, it even has a mute button. The sound quality seems to be very clear and crisp, but it makes sizzling sounds (S sounds) which I don't like so much. I did read about people complaing that it picks up too much background noises, more than other condenser mics. Other than that, I checked out youtube, recording singing sounds really great with this mic.
+* **Sennheiser Profile:** Condenser microphone. Has a good compact size, good for traveling. You can be heard quite good even if you aren't sitting too close which I find nice and interesting for a condenser mic. Compared to other condenser mics it blocks out many background noises which would be good cause I will be recording in untreated rooms. Recording singing sounds a bit less good than on the at2020usb-x. Has a mute button.
+* **Rode nt-usb mini:** Condenser microphone. Has a built-in pop filter which I find nice. The mic is very very small which is perfect for traveling. Sound quality seems to be good, a little bit more in the lows but still good imo. Saw someone on youtube singing with it which sounded good, but it was recorded in a treated room. Need to sit close to the mic to be heard. Has no mute button though.
+* **NearStream AM15X:** Dynamic microphone. Can't see much about it, I could only find one single youtube video about it, but amazon reviews looked good. It's on the cheaper site though, around $60, so I am not sure how good a $60 mic will perform.
+* **Maono PD100 Gen2:** Dynamic microphone. It's also on the cheaper site, $60. I watched a couple of youtube videos about this mic and for that price it seemed to be pretty good, the sound quality was very crisp and clear. Despite being a dynamic microphone it seems to pick up a lot of background noises though.
+
+These are the microphones I have found after combing the internet. Maybe someone here know some of the mics and can tell me more about it? Or can recommend other ones?
+
+I am not making music in a professional way, it's just a hobby, so it doesn't matter if it doesn't sound too professional, but it also shouldn't sound too cheap :) . I know that dynamic mics would probably be better since I will be recording in untreated rooms, but I couldn't find many usb dynamic mics, most of them were XLR.
+
+Thank youuuu",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asking for microphone recommendations.
+Thanks dude! Won't that still move stuff around on the grid though?,Help/Advice,Relabeled Recommendation/Discussion -> Help/Advice (new definitions): follow-up technical question about grid behavior.
+"Help!! Need assistance with presets on my controller (Mpd26)
+
+Video explains it all. I’m using FL 10 btw",Help/Advice,
+"I almost always need to open a project twice, bcs on the first try, fl studio crashes, yes, I own a legit fl studio copy
+
+Windows 11  
+Lenovo legion 5 pro  
+newest fl version",Help/Advice,
+finding clearable samples is soo hard but every now and then you find a good one,Recommendation/Discussion,
+I’m unaware what spec it means. Any specific reccomendations? of course doesn’t have to be too too cheap but are there any steals anywhere?,Recommendation/Discussion,
+"Best Effects Plugins?
+
+Noob FLer here, best effects plugins that I should know? Currently familiarizing myself with Reeverb, EQ, but what else?",Recommendation/Discussion,
+"If that’s how it works, as I’ve been told.",Recommendation/Discussion,"Relabeled Help/Advice -> Recommendation/Discussion (new definitions): conversational reply, no request."
+![gif](giphy|Ns9RtP5D5cW0gXjA40),Recommendation/Discussion,
+Little early birthday present to myself. A Novation FL 61 Key.,Recommendation/Discussion,
+"Uhm what the fuck r all the stuff ppl uses in FL studio
+
+Soo. I want fl studio cuz I lwk got bored of not being able to make the music I like in bandlab (I like weirdcore and dreamcore). Maybe theres a way to get a sound like that but I don't know theory (only the chords types) so idk how to play with reverb and stuff either.
+
+FL studio is worth getting if I'm so dumb?",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): general discussion of tools / whether FL is worth getting.
+"How to do this in FL Studio?
+
+I’m sure FL will have a way to get this done:  
+https://youtube.com/shorts/OaQbjy6x6W8",Help/Advice,Relabeled Tutorial -> Help/Advice (new definitions): asks how to do something in FL; does not teach.
+General thoughts on this section?,Feedback,
+"Just made this shi, roast my ah
+
+Im pretty new to this so pls go ahead and tell how bad i fcked up and what the most problematic mistakes were",Feedback,
+"No puedo instalar plugins externos ayudaaaaaa
+
+Intento descargar plugins gratuitos pero no puedo, me aparecen pero cuando los quiero utilizar me aparece que fueron instalados incorrectamente ¿alguien sabe qué puedo hacer?",Help/Advice,
+"How to make guitar sound more warm/thick?
+
+any advice helps thank you.",Help/Advice, Ambiguous between Feedback and Help/Advice. Applied primary-rule: Help/Advice.
+Kickstart from Nicky Romero can do exactly that. It’s only 20 bucks and well worth the money,Recommendation/Discussion,
+"I have a standard laptop currently that is pretty recent. It just doesn’t hold up with many of my vsts and fl studio projects over time. I have multiple 50+ track songs and the cpu and ram sometimes screw me over. If it weren’t for the backup that FL studio has, I dont think I would still be using Fl!",Recommendation/Discussion,"""This is not a question or request for help, so I will label it as Recommendation since it is a general comment about the subreddit and not a specific question or request for help."""
+"Can't get FL Studio/IL Remote to connect.
+
+Using my iPad Pro and MacBook Pro and can't get fl studio on my MacBook to recognize FL Studio/IL Remote as a midi. Both devices are on the same network. I can't always carry my midi keyboard with me and want to work on music while on the go or in-between classes on university campus. Any tips? I searched on google and tried every method I could find to no avail. I know it works because I used this feature in the past before but it was on an older iPhone and laptop.",Help/Advice,
+"Anything with at least a Ryzen 5 CPU and 32 GB RAM should be sufficient.  I don't know how a Ryzen 5 compares to your Intel Evo i7 but if they're about the same, just get extra RAM for your computer but ensure it's the exact same gHz or else your computer won't run.  Don't get a Mac because FL does not run smoothly on Apple computers as FL was specifically made to run on Windows.",Recommendation/Discussion,
+"Continuous scroll still laggy despite high-end PC + RME Babyface Pro — buffer/sample rate ruled out, what am I missing?
+
+Hey everyone, I'm stuck on something that doesn't make sense given my setup.
+
+**Specs:**
+
+* i7 Ultra
+* RTX 5070ti
+* Omen Max 16
+* RME Babyface Pro (ASIO)
+
+**The issue:** Continuous scroll in FL Studio feels laggy/stuttery, even though this machine should chew through this with zero effort.
+
+**What I've already tried:**
+
+* Increased buffer size (was on 256, went back up to 1024)
+* Turned off """"""""Keep label on screen""""""""
+* Disabled animations in general settings
+* Sample rate 44.1 vs 48kHz (no noticeable difference, as expected — that mostly affects audio processing load, not UI rendering)
+
+Nothing fixes it. It's specifically the continuous scroll rendering that stutters, playlist/piano roll scrolling doesn't feel buttery smooth like I'd expect on this hardware.
+
+Anyone with a similar setup (RME interface + modern GPU) run into this? Is this a known FL Studio rendering bottleneck (maybe tied to GDI/OpenGL rendering mode), an ASIO driver priority thing, or something else entirely? Open to trying anything at this point.",Help/Advice,
+"YouTube, SoundCloud, BandCamp, Spotify, instagram. Wherever you want.",Recommendation/Discussion,
+"I’m not the most knowledgable, that’s why I’m asking. Thanks for your explanation; I intentionally asked for an affordable one because of the RAMpocalypse right now. Do you have any specific ones?",Recommendation/Discussion,
+"Help: Cant get a signal into my guitar rig 7 plugin in fl studio
+
+Hello i have a problem with guitar rig 7. I have selected my scarlett focusrite as an audio input in one track in the mixer in fl studio and also have selected guitar rig 7 as a slot on that track and i get a signal from my electric guitar in fl studio as a clean guitar sound, but when i open up guitar rig on that track i get no signal from my guitar, why is this?
+
+The wierd thing is that i get a signal from my electric guitar when i use the guitar rig 7 app, but not when i use it as a plugin on a slot on a track in the mixer in fl studio, and yes i have tried turining on and off the direct button on my focusrite. Anybody who know how to  this issue or has experienced anything  
+similar?",Help/Advice,
+Sounds good just volume balance and add some effects like reverb or something to the vocal then post it!,Recommendation/Discussion,
+"Recommendations welcomed
+
+I just finished this project, currently recording vocals and hoping to release this track before the year. Wanted to share it with y'all and if you have any ideas or recommendations I can add, those are welcomed. thx!",Feedback,Ambiguous between Recommendation and Feedback. Applied primary-rule: Feedback.
+"Just grabbed the all plugins bundle Bring me up to date please!
+
+I have not used FL studio since version 12 and upon opening this up, I’m overwhelmed at the amount of things that you can do, but I don’t quite know enough about the new interfacing or options. Any producers out there that came from a very early version and upgraded. What do you find the most useful or unique?  I feel like I’m just scratching the surface and I used to know this program like the back of my hand.  Help me out on some of the best parts of this program.",Recommendation/Discussion,Relabeled Help/Advice -> Recommendation/Discussion (new definitions): asks what new features/tools others find useful; discussion/recommendation.
+"Wow, are you into music full time? I just started this stuff a week ago… It’s still like I’m dreaming tbh.",Recommendation/Discussion,
+"First Remix
+
+This is my first remix I've ever made. I'm not the greatest at mixing so please let me know if you have any feedback or suggestions.",Feedback,
+I do know that but I often go back and edit parts and I don’t want to render something over and over again.,Recommendation/Discussion,
+"I get your point, but slowly bringing down the barriers to switching OS's only allows more users freedom to switch as they please, reducing the control big companies like microsoft and apple have over all of us. Recent events have thoroughly shown why this is a good thing. While I'll stay on windows until FL has been proven to be easy to use on Linux (its literally the final thing stopping me from switching), im super excited for all these community-led efforts!",Recommendation/Discussion,
+"It's not easy to play guitar on a keyboard. Let me know what you think
+
+Best experience with headphones or stereo speakers  
+  
+One thing that i am already thinking about changing is the volume of the """"""""melody"""""""" that pans left and right. 
+
+I looking for feedback regarding the guitar sound, if they clash together or work fine. 
+
+And my point is the hi-hats. Yay or Nay? i'm not sure",Feedback,
+"That's pretty amazing, in my opinion that's really a good choice if you really want!
+
+Well, each years had at least something that I found really amazing, now I got at least 10 music I really love that I made. But if you talk about being famous for a song I didn't since I do not uploaded that much.",Recommendation/Discussion,
+I always just cut it on the beat the tempo changes and then it's usually fine. (I also usually don't do tempo changes because FL is not great at dealing with them &gt;_&gt;),Recommendation/Discussion,
+i did a thing and it probably turned out as something as it sounds,Recommendation/Discussion,"Possibly a showcase of own work without feedback request; kept Recommendation/Discussion, review."
+"Many things can add to the groove of a song. For drums specifically, taking different elements off of the grid is a good start. Panning can play a big part in keeping repetitive elements interesting. Another thing to try is changing the velocity of drums. Don’t make all of your high hats hit with the same velocity and timing for example. Large variations may be suitable for some sections but keep in mind, a little goes a long way when you start to put all of the elements together. If you need some help, feel free to hit me up. I’m always happy to talk production and help out.",Tutorial,
+"Pay close attention to the details of the drums you might not otherwise think about, it's all those little things that make ""groove."" How loud is the hi hat pattern mixed and where on the frequency spectrum is it hitting. Is there swing to the pattern, and how much? Even a little simulates a pocket feel. Also, extremely important, the velocity information. If every hit is the same volume, it will sound flat, usually there's a lot of variation even when it might not seem like there is at first glance. Layering an audio loop under your hat pattern can be effective here. The actual sounds you start with are extremely important. If this is house/techno, the kick needs to thump. Not boom, thud. The decay should be short, the attack very prominent. If it isn't, your kick wont sit in the mix or sound like techno. Also is the hi hat pattern sidechained to the kick with compression? That will create that pumping effect even within the drums. Are there sound effects or percussion behind the main beat? Careful placement or a good perc loop will blend your beat together nicely. Gluing everything together will make everything feel more comfortable. Route all your drums to one channel in the mixing rack (even if they are already on separate channels, create a sub-master) and add either a very light bitcrusher with high resolution, or a little tape saturation distortion. You could also use a limiter or multiband compressor (although in this case you want to know what you're doing first) to even everything out. Finally the instrumental/harmonic portions will play a large roll, and that's partly the skill of the composer. Even though techno doesn't have a lot of chords per-se, whatever melodic motif, stab, or rhythmic notes you hear are very intentional and help add to the beat, even if the youtuber plays it off like it's something casual.",Tutorial,
+"People who make complex stuff started simple, don't get discouraged. Check out Syntorial for a good intro to making sounds, even just the free demo will get you going on the absolute basics. If you don't know any now, get started on some simple music theory. Learn about scales, major, minor, open chords, pentatonics, etc. You don't have to become a master in jazz theory, but having a basic knowledge of how scales and the like work is SO helpful in making your stuff sound right. Once you get the basics and you get more serious, consider getting some samples and synths. The gold standard right now is Serum, and for good reason, it's awesome, but there's all sorts of other cool stuff to try. Harmor in FL is pretty awesome too. To start off with samples there's a ton of cool free packs, but if you want to just have everything put together that you'll need in a guaranteed high quality way, check out Black Octopus' Leviathan pack. Absolutely everything you could possibly need for the near future and not too bad in price when it's on sale. Also check out Splice, it's neat. To get started also I recommend you try imitating some songs by people you like. Deconstruct what they did and how and try to apply it. You won't get anywhere near them for a while but that's ok, the process is what matters. Make sure you learn all of these concepts, all absolutely essential to get going: Gain staging, Compression and limiting, Equalization, Stereo spacing, panning, Reverb and delay, Transients, Clipping, ""The mids"", ""The highs"", ""The lows"" - frequencies and frequency spectrum, & High-passing, low-passing, band-passing, notches, bells A good thing to remember is that less is more. Focus on fitting everything together in a box. If something isn't loud or present enough, 60%+ of the time you should be carving space for it out of other elements (lowering their volume, EQing) rather than just making it louder. Think about how everything you're adding fills the frequencies and the stereo space, and focus on filling that as much as possible without things clashing. Be especially careful with the low end, it fills up sooo fast. 200-500hz is a danger area for mud. Watch watch watch tutorials. Au5 Mr Bill and Virtual Riot do good ones among others. But the number one major thing is USE REFERENCE TRACKS. Listen to stuff by people you like and figure out what they did. Listen to the volume they chose for each element, and how they cut stuff and how they spaced it and panned it and whether they used reverb or distortion or whatever. Throw their songs in your DAW and EQ them and listen to just the low end or just the mids or just the transients. Get good with your ears. Do it casually - when you hear a song in a YouTube intro, when you hear background music in a movie, anything, do this. Get that continuous mindset of ""How do other people make good stuff and how can I learn from it"". Develop a genuine curiosity for it and it'll help so much. Make it a daily science. Listen to that stuff, figure it out, and experiment with applying it. It's the single most important step in progressing with your abilities IMO. Consider doing a project where you just remake a song you like as close as you can, it'll force you to mess around to match what they did and find out how they made stuff good, and you can apply that theory and experience to your own things. I still do this all the time and it's how I've figured out a lot of tricks, like light vibrato on saws or panning delays or etc. You probably won't be able to match it super well at first and that's ok, it's the process that matters. One more thing - you ARE going to suck for a while. A long while. Maybe years. But that's okay, and the payoff is worth it. It's what really separates the people who make it from those who don't, it's the reason why everybody doesn't end up as Skrillex. You have to get that discipline to keep going and keep learning even if you feel like everything you make is bad and it's hopeless. The difference between every beginning bedroom producer and successful artist is a thousand points in their life where they could've given up, but didn’t.",Tutorial,
+"I absolutely second all of this, great post OP. Extra tip: FINISH SONGS. The lessons you learn from finalizing and ""perfecting"" as wholes are the difference between a ""good song"" and a ""bad song"", where the finer details people tend to get caught in when producing are what make the song sound good(of course they overlap though). If you're like me, you often start a track with the areas you prefer like a chorus/drop or buildup, and then don't finish and move on to a new project only to practice the same things, never working much on figuring out what makes a song as a whole great, memorable, impactful, etc. Finish your projects, then listen to them as a completed product you didn't make. Disregarding production quality, what about it was lacking? Why wasn't it as profound or interesting as you'd hoped? When did you get bored and why? What DID make you feel what you wanted from the song, and why?",Tutorial,
+"You'll need a melody, hihat, snare or clap (you can layer both of you want, Kick, 808 and maybe and open hat. For a melody you could sample or make one on your own with a stock vst or buy a VST which is a virtual instrument. A good stock VST is 3xosc and a good cheap VST is Xpand 2 which costs around $15 on on a website called plugin boutique. You can find find the hihat,snare,clap,kick,808 and open hats in many drum kits. I'd recommend to go on the drum kit community here on reddit to find some good ones. as far as arrangement goes make the intro 8 bars and verses 16-24bars (it depends on how fast your tempo is) after the verse have an 8-16 bar hook or chorus and repeat to your liking. Some tips that i can give you are to press the cut it self tab on your 808's and all other drums in general, right click on the hihat tab and click fill in every 2 steps to start a simple pattern, put a plugin called ""soft clipper"" on your master channel which is where all the others channels are for your drums and etc so you can level them later. Some youtube channels that i'd recommend to watch and learn more about patterns and other simple beginner things are ""Busyworkbeats"", ""Cxdycxdy"", ""Kbeazy"", ""kylebeats"", ""internet money"", ""paul allen"" and ""simon servida"". i'd also recommend to search up some instrumental remakes of some popular songs to see how it looks finished and to catch a new trick or two. Hopefully i'm SOME help for you to start and good luck on your production journey bro we all been at the beginning stage and theres nothing else but to go forward from here.",Tutorial,
+"Acid is made with a Roland TB-303. The sound in your example is a resonant bandpass filter and you can do that with fruity filter or love philter or the EQ2. Set the frequency to a sample and hold LFO or sequence/ automate the frequency to get the different notes. Also try mapping the frequency to note values, then you can play the filter. FL also has a very good TB-303 emulation in Transistor Bass. The 303 is known for its squelchy resonant filter, however its a lowpass filter rather than a bandpass filter. The example is acid-ish, but the 303 is also restricted to a square or saw wave while the example sounds like a much more complex waveform. Hope that helps!",Tutorial,
+"Everyone does things differently, but my workflow tends to be the following:
+* Make a melody that sounds catchy to me
+* Build chords that I can loop
+* Lay out the structure for percussion so I can at least have something to rely on to use later
+* Build the structure of the rest of the song by expanding backwards/forward from what I made
+* Fill in the blanks even if it's by copy/paste
+* Go back and refill the blanks by making everything slightly different
+* Add automation to control volumes and dynamics, and to make the song flow more
+* Balance instruments so they sound as they should .. at least to me
+* Go into recording live instruments if applicable to replace or add to parts of the song
+* Export the tracks into WAV files, and then reimport them into a new project for Mastering (and Visalizer) purposes
+
+It's not like .. fixed either .. nor should it really be. The process is supposed to be flexible and not so ""standard"" .. but the things I do like to keep standard as much as possible is that you definitely want to mix before you attempt mastering .. and that I usually leaving mixing towards the end because you don't want to be processing/overprocessing your music before you even get to that point (such as EQing instruments that don't need to be EQ'd yet when they're on their own, such as drums without a bass and the other instruments present). I only do this ahead of time if I already know the general style of music I'm going for and already know there's cuts to be made ahead of time .. but that's not really a ""rule"" and more of a me saving future-me some clicks thing. >_<",Tutorial,
+"Frequency. Some kind of sound to punctuate songs sections, like a cymbal crash, whoosh, or long decay reverb hit. Some kind of extra thing, or set of percs or add-ons for progression. A generic example of that on a real drum kit might be hitting 4x rides. Next you want to make an ""A, B C"" and arrange it it some way. For example A B A C. A is your standard beat. B, C, and onwards is just a very small variation of A, usually with an extra kick or snare or different pattern that flows. Lastly you got fills, which go at the end of song sections. Like, where the fill is D; A B A C A B A D. That's the most stock kind of 4/4 beat you can make. But there's no hard rules on it. I'd say the main part of it you need to get right is the Kick and Snare which will define the rhythm/feeling of your song. It doesn't have to be a kick or snare. Kick can be a transient bass thing of some kind, snare can be any kind of midrange hit. White noise, a zap, a perc, a clap.",Tutorial,
+"I would highly recommend starting with a loop, something with harmony or melody. Then you can block out the arrangement from start to finish as soon as you open the project and find a good loop. Next I would add kick drum and snare/s that follow the groove of the loop (and also some counter snares), after that some hi hats to compliment the kick and snare (trap hats usually sound good where they have variations such as 1/32 or triplet fills at the end of 4 or 8 bars. After that, add your bass, could be 808, maybe a bass guitar instrument or synth depending on the genre and vibe. You can also pitch the main loop down an octave or two and add a low pass filter to get just the bass frequencies in the loop. Next you could add some melody and/or sustained sound such as strings, especially in the chorus and pre-chorus. Finally, optimize the arrangement if it calls for it (song might be too long or short) and add some effects such as vinyl scratches, vocal chops, risers and falls, vinyl crackle (basically anything that will compliment the rest of the song). In the past I've had problems when starting with drums only, which I did for quite a long time. But recently I've been starting with the chords/melody/loop, and the projects seem to go smoother and more efficiently. It might help to learn a bit about mixing as this can really make or break a song whose structure and composition is good. Some mixing things I suggest is parallel compression/processing for the drums, side chain compression, using busses and sends, it would also be good to learn some basic mastering so that when you are finished mixing the beat, you can import the stereo track into it's own session and give it some sheen.",Tutorial,
+"So I make phonk and heavier trap. My process personally I start with drums if I'm not using a loop or sample, kick snare hat plus any extra percussion. I'm a drummer so my mindset is that if the drums are good, that's the core of your beat so if they're good then it's hard to go wrong somewhere else. After that I move on to either creating/finding sounds to go over it, or I go straight to making a nice fat bass. Usually bass. I copy my kick pattern and paste it into a new pattern using the bass sound and then use quick legato to make the notes extend to each other. From there it's different for every song. As far as structure, you can have a nice simple intro that's just an instrument or sample playing and them have the drums and bass come in. Then create a thinner section for the verse by taking out a few elements, then go into a chorus with more elements. Just kinda adding/subtracting stuff is the easiest way to make variety. Intro/Verse/Chorus/Verse/Chorus/Outro is the classic structure for any song, but I like shorter songs that get to the point, so I'll typically do just one verse and one chorus a lot of the time. Editing to mention mixing like another comment: Mixing is huge and will definitely make or break a beat. Definitely learn to use sidechain compression with Fruity Limiter, that changed the game for me, specifically sidechaining your kick to your bass to avoid buildup of low frequencies. Also Fruity Soft Clipper on the master is really good for most beats. Experiment with Fruity Wave Shaper on drums and bass especially, and learn which frequencies you should be boosting or cutting with your EQ, though that will take a long time to get right and is something I'm still improving on. I wish you the best! Cook some heat.",Tutorial,
